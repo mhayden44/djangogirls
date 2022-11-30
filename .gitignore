@@ -2,7 +2,8 @@
 *.pyc
 *~
 __pycache__
-
+local_settings.py
+icons
 # Env
 .env
 myvenv/
